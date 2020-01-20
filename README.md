@@ -16,7 +16,8 @@
   Meilleur Wine
 </h1>
 <p>Made with Shopify, Node.js, GraphQL and React.</p>
-<p>After creating Menco, a ecommerce website using Gatsby, I wanted to make another site using a more realistic and sensible stack which would be more reliable and suitible for clients.</p>
+<p>After creating Menco, a ecommerce website using Gatsby, I wanted to make another site using a more realistic and sensible stack.</p>
+<p>I decided upon creating the mock wine site "Meilleur Wine", although the project is really more about getting comfortable using different tools, exploring the backend a bit and learning tools which will make other peoples lives easier.</p>
 
 
 <br>
